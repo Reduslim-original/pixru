@@ -1,0 +1,260 @@
+.footer_section {
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.footer_section a{
+    padding: 0 10px;
+}
+
+footer {
+    display: block;
+    width: 100%;
+    height: auto;
+    line-height: 22px;
+    background: #dfe1e1;
+    font-size: 14px;
+    font-weight: 400;
+    color: #3b3b3b;
+    -webkit-box-shadow: 0 4px 8px 0 rgba(33,50,59,0.1) inset;
+    box-shadow: 0 4px 8px 0 rgba(33,50,59,0.1) inset;
+}
+
+
+[class^="icon-"], [class*=" icon-"]{display:inline-block;font-family:"Lacoste" !important;speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:inherit;vertical-align:inherit;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
+.icon-eye:before{content: "\e000";font-size: 18px;}
+.icon-paper-clip:before{content: "\e001";font-size: 18px;}
+.icon-mail:before{content: "\e002";font-size: 18px;}
+.icon-link:before{content: "\e005";font-size: 18px;}
+.icon-bell:before{content: "\e006";font-size: 18px;}
+.icon-lock:before{content: "\e007";font-size: 18px;}
+.icon-unlock:before{content: "\e008";font-size: 18px;}
+.icon-clipboard:before{content: "\e013";font-size: 18px;}
+.icon-clock:before{content: "\e014";font-size: 18px;}
+.icon-printer:before{content: "\e020";font-size: 18px;}
+.icon-cog:before{content: "\e023";font-size: 18px;}
+.icon-heart:before{content: "\e024";font-size: 18px;}
+.icon-paper:before{content: "\e034";font-size: 18px;}
+.icon-search:before{content: "\e036";font-size: 18px;}
+.icon-zoom-in:before{content: "\e037";font-size: 18px;}
+.icon-zoom-out:before{content: "\e038";font-size: 18px;}
+.icon-reply:before{content: "\e039";font-size: 18px;}
+.icon-microphone:before{content: "\e048";font-size: 18px;}
+.icon-map:before{content: "\e072";font-size: 18px;}
+.icon-head:before{content: "\e074";font-size: 18px;}
+.icon-speech-bubble:before{content: "\e076";font-size: 18px;}
+.icon-reload:before{content: "\e080";font-size: 18px;}
+.icon-share:before{content: "\e081";font-size: 18px;}
+.icon-tag:before{content: "\e085";font-size: 18px;}
+.icon-loader:before{content: "\e105";font-size: 18px;}
+.icon-plus:before{content: "\e114";font-size: 18px;}
+.icon-minus:before{content: "\e115";font-size: 18px;}
+.icon-check:before{content: "\e116";font-size: 18px;}
+.icon-cross:before{content: "\e117";font-size: 18px;}
+.icon-ellipsis:before{content: "\e129";font-size: 18px;}
+.icon-chevron_down:before{content: "\e900";font-size: 24px;}
+.icon-chevron_left:before{content: "\e901";font-size: 24px;}
+.icon-chevron_right:before{content: "\e902";font-size: 24px;}
+.icon-chevron_up:before{content: "\e903";font-size: 24px;}
+.icon-two_chevron_down:before{content: "\e904";font-size: 24px;}
+.icon-two_chevron_left:before{content: "\e905";font-size: 24px;}
+.icon-two_chevron_right:before{content: "\e906";font-size: 24px;}
+.icon-two_chevron_up:before{content: "\e907";font-size: 24px;}
+.icon-chevron_down_large:before{content: "\e908";font-size: 24px;}
+.icon-chevron_left_large:before{content: "\e909";font-size: 24px;}
+.icon-chevron_right_large:before{content: "\e90a";font-size: 24px;}
+.icon-chevron_up_large:before{content: "\e90b";font-size: 24px;}
+.icon-two_chevron_down_large:before{content: "\e90c";font-size: 24px;}
+.icon-two_chevron_left_large:before{content: "\e90d";font-size: 24px;}
+.icon-two_chevron_right_large:before{content: "\e90e";font-size: 24px;}
+.icon-two_chevron_up_large:before{content: "\e90f";font-size: 24px;}
+.icon-menu:before{content: "\e91c";font-size: 24px;}
+.icon-eye2:before{content: "\e921";font-size: 24px;}
+.icon-heart2:before{content: "\e922";font-size: 24px;}
+.icon-star:before{content: "\e923";font-size: 24px;}
+.icon-view_block:before{content: "\e924";font-size: 24px;}
+.icon-view_list:before{content: "\e925";font-size: 24px;}
+.icon-view_tile:before{content: "\e926";font-size: 24px;}
+.icon-config:before{content: "\e927";font-size: 24px;}
+.icon-cart:before{content: "\e928";font-size: 24px;}
+.icon-cart_plus:before{content: "\e929";font-size: 24px;}
+.icon-cart_remove:before{content: "\e92a";font-size: 24px;}
+.icon-cart_full:before{content: "\e92b";font-size: 24px;}
+.icon-user:before{content: "\e92c";font-size: 24px;}
+.icon-search2:before{content: "\e92d";font-size: 24px;}
+.icon-phone:before{content: "\e92e";font-size: 24px;}
+.icon-comment:before{content: "\e92f";font-size: 24px;}
+.icon-answer:before{content: "\e930";font-size: 24px;}
+.icon-ruble:before{content: "\e931";font-size: 24px;}
+.icon-link2:before{content: "\e932";font-size: 24px;}
+.icon-mouse:before{content: "\e910";font-size: 48px;}
+.icon-checklist:before{content: "\e916";font-size: 80px;}
+.icon-delivery:before{content: "\e917";font-size: 80px;}
+.icon-delivery_box:before{content: "\e918";font-size: 80px;}
+.icon-operator:before{content: "\e919";font-size: 80px;}
+.icon-passport:before{content: "\e91a";font-size: 80px;}
+.icon-polo_size:before{content: "\e91b";font-size: 80px;}
+.icon-callback:before{content: "\e911";font-size: 80px;}
+.icon-delivery_time:before {content: "\e912";font-size: 80px;}
+.icon-order:before {content: "\e913";font-size: 80px;}
+.icon-polo_shirt:before {content: "\e914";font-size: 80px;}
+.icon-voucher:before {content: "\e915";font-size: 80px;}
+
+
+.promo__header__image1 {
+    margin-right: 11rem;
+    width: 47.5rem;
+}
+
+@media only screen and (max-width: 768px){
+    .promo__header__image1 {
+        margin-right: 0;
+        width: 100%;
+        text-align: center;
+    }
+}
+
+.price-wrap{
+    width: 285px;
+    margin-top: 15px;
+}
+
+.price-wrap .price{
+    color: #222;
+}
+
+.price-wrap .old-cost > span, .price-wrap .new-cost > span {
+ color: #222;
+}
+
+.price {
+    width: 282px;
+    height: 78px;
+    margin: 0 auto;
+    text-align: left;
+    color: #fff;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.old-cost p {
+ font-size: 26px;
+ font-weight: 700;
+ line-height: 28px;
+}
+
+.old-cost p b {
+ text-decoration: line-through;
+}
+
+.old-cost > span, .new-cost > span {
+ font-size: 15px;
+ color: #fff;
+}
+.old-cost{
+    float: left;
+}
+.new-cost {
+ float: right;
+}
+
+ .new-cost p {
+ font-size: 32px;
+ font-weight: 700;
+ line-height: 28px;
+}
+
+.new-cost, .old-cost {
+ width: 50%;
+ height: 68px;
+ text-align: center;
+}
+
+ .old-cost p i, .new-cost p i {
+ font-size: 26px;
+ font-style: normal;
+}
+.order_form{
+    margin: 0 auto;
+}
+.price-wrap .input{
+    margin: 7px 0;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+.price-wrap .input {
+    display: inline-block !important;
+    padding: 17px 10px 17px 10px !important;
+    color: #000 !important;
+    height: 56px !important;
+    background-color: #fff !important;
+    background-image: none!important;
+    border-radius: 8px !important;
+    font-size: 16px !important;
+    border: 1px solid #a5a5a5 !important;
+}
+
+.price-wrap .btn {
+    margin-top: 10px;
+    text-transform: uppercase;
+    padding: 2rem 1rem;
+    width: 100%;
+    color: #fff !important;
+}
+.price-wrap .order_form .button{
+    width: 320px;
+    margin-top: 5px;
+}
+
+.promo__header__virtues1{
+    padding-bottom: 20px;
+}
+
+@media only screen and (max-width: 768px){
+    .price-wrap .btn{
+        font-size: 16px;
+        height: 54px;
+        padding: 1rem 1rem;
+    }
+    .version_two4{
+        margin-bottom: 0;
+    }
+}
+
+@media only screen and (max-width: 380px){
+    .price-wrap, .price-wrap .order_form .button{
+        max-width: 100%;
+    }
+}
+
+.promo__blocks.version_two .promo__blocks__row__2 .promo__blocks__item__image img {
+    height: auto;
+    pointer-events: none;
+}
+
+.country_select {
+    -moz-appearance: none !important;
+    -webkit-appearance: none !important;
+}
+.copyright { font-size: 14px;text-align: center; padding:20px 0;color: #6C6E6F;}
+.copyright p { width: 100%; text-align: center; padding: 0; margin: 0; }
+.copyright br { display: none; }
+.copyright img { margin: 10px auto!important; max-width:100%; }
+.copyright a {color: #6C6E6F; text-decoration: none;}
+.copyright a:hover { color:#FF0069; text-decoration: none; }
+.errField { display:none; font-size: 14px; background: #f00; color: #fff; text-align: center; padding: 10px; margin-bottom:10px; }
+.errorMessage {font-size: 15px;background: rgba(255, 0, 0, 0.64);color: #fff;text-align: center;padding: 5px 10px;position: absolute;margin: 10px 0 0; z-index: 9999;}
+
+.promo__srcoll-header {
+    transform: translate(0px, 0px);
+    top: 0;
+    opacity: 1;
+}
+
+.promo {
+    padding-top: 70px;
+}
